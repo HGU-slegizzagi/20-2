@@ -12,7 +12,7 @@
 
 * 슬기짜기는 Computer Science라는 학문을 중심으로 여러 다른 분야와  **융합**하여 프로젝트를 진행하는 동아리 입니다.
 
-* ~~슬기짜기 고대 홈페이지 http://people.cs.pitt.edu/~charmgil/old-www/sle/ ~~
+* ~~슬기짜기 고대 홈페이지 (http://people.cs.pitt.edu/~charmgil/old-www/sle/) ~~
  
   <p>
   <img src="./src/computer-science.png" alt="image-20200229172830325" width = "30%" /></p>

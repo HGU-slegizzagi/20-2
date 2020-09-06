@@ -92,7 +92,7 @@
 
 ## Recuriting
 
-* [리크루팅 포스터](.img/poster.jpg)
+<img src="/src/poster20-2.jpg" width="350" height="500">
 
 ## 운영 방침
 

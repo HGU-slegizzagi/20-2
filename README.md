@@ -83,6 +83,7 @@
 | 15 주차                            | ~~Week Off~~                         |
 | <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~               |
 | 17 주차~                           | Winter Project Start                 |
+
 *일정은 조정될 수 있습니다*
 
 ## Recuriting

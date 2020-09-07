@@ -68,18 +68,18 @@
 | ----------------------------------| ------------------------------------ |
 | 1 주차                             | 기존 멤버 설문 조사                       |
 | 2 주차                             | OT (Orientation) + Networking, Eat out|
-| 3 주차                             | Sle_Algo & Recruiting End             |
-| 4 주차                             | Sle_Algo, Networking week            |
-| 5 주차                             | Sle_Algo                             |
-| 6 주차                             | Sle_Algo, Networking week            |
+| 3 주차                             | Sle_Community & Recruiting End, Sle_Algo|
+| 4 주차                             | Sle_Community, Sle_Algo              |
+| 5 주차                             | Sle_Community, Sle_Algo              |
+| 6 주차                             | Sle_Community, Sle_Algo              |
 | 7 주차                             | Sle_Algo                             |
 | <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~                |
-| 9 주차                             | Sle_Algo + Project OT, Eat out        |
-| 10 주차                            | Sle_Seminar + Sle_Algo                |
-| 11 주차                            | Sle_Seminar + Sle_Algo, Networking week|
-| 12 주차                            | Sle_Seminar + Sle_Algo               |
-| 13 주차                            | Sle_Seminar + Sle_Algo, Networking week|
-| 14 주차                            | Sle_Seminar + Sle_Algo                |
+| 9 주차                             | Project OT + Sle_Algo, Eat out       |
+| 10 주차                            | Sle_Seminar + Sle_Community, Sle_Algo|
+| 11 주차                            | Sle_Seminar + Sle_Community, Sle_Algo|
+| 12 주차                            | Sle_Seminar + Sle_Community, Sle_Algo|
+| 13 주차                            | Sle_Seminar + Sle_Community, Sle_Algo|
+| 14 주차                            | Sle_Seminar + Sle_Community, Sle_Algo|
 | 15 주차                            | ~~Week Off~~                         |
 | <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~               |
 | 17 주차~                           | Winter Project Start                 |

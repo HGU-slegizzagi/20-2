@@ -70,7 +70,7 @@
 | 2 주차                             | OT (Orientation) + Networking, Eat out|
 | 3 주차                             | Sle_Community & Recruiting End, Sle_Algo|
 | 4 주차                             | Sle_Community, Sle_Algo              |
-| 5 주차                             | Sle_Community, Sle_Algo              |
+| 5 주차                             | *Chuseok*, Sle_Algo                  |
 | 6 주차                             | Sle_Community, Sle_Algo              |
 | 7 주차                             | Sle_Algo                             |
 | <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~                |

@@ -12,25 +12,22 @@
 
 * 슬기짜기 Seminar를 통해서 다음 2가지 문서를 제작해야합니다.
   * Seminar 때 사용이 될 **PPT**
-  * Seminar 내용을 정리한 **Markdown Documents**
+  * Seminar 내용을 정리한 **Markdown Documents** 
 * :heavy_exclamation_mark: Seminar 내용을 정리한 Markdown Documents는 꼭 해당 repository에 등록해주시기 바랍니다:heavy_exclamation_mark:
+
+* seminar시간은 10-15분을 넘지 않도록 핵심내용만!
 
 ## 20년도 2학기 Seminar Sheet
 
 ### 주차 별
 
 | 주차                               | 내용                              | 주제                    | Speaker   |
-| ---------------------------------- | --------------------------------- | ----------------------- | --------- |
-| 5 주차                             | OT (Orientation)                  | :free: **sleFT101**: OT | 전상규    |
-| 6 주차                             | sleCS01(세미나) + Project Meeting |   OT#2|    전상규 |
-| 7 주차                             | sleCS01 + Project Meeting         |   :bulb: **sleIP102** 슈퍼코더 제 1장: 정보가  |    전상규       |
-| <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~           | No Sminar               | No Sminar |
-| 9 주차                             | Late MT or BBQ                    | No Sminar               | No Sminar |
-| 10 주차                            | sleCS01 + Project Meeting         |      미정    java project   |  이지명   임연규 |
-| 11 주차                            | sleCS01 + Project Meeting         |    내가요즘하는 좋아하는 일 |    김기철       |
-| 12 주차                            | sleCS01 + Project Meeting         | myProject & (coding interview) |   김가영    |
-| 13 주 차                           | sleCS01 + Project Meeting         | 수업 후기들    |    김도윤       |
-| 14 주차                            | :tada: ​Slegizzagi Party :pizza: ​​  |                         |           |
-| 15 주차                            | ~~Week Off~~                      | No Sminar               | No Sminar |
-| <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~            | No Sminar               | No Sminar |
-| 17 주차~                           | Summer Project Start              |                         |           |
+| ---------------------------------- | --------------------------------- | ---------------------| --------- |
+| 10 주차                            | sleCS01                            | 실프website              |  김가영 |
+| 11 주차                            | sleCS01                            |                       |           |
+| 12 주차                            | sleCS01                            |                       |           |
+| 13 주차                           | sleCS01                            |                       |           |
+| 14 주차                            | sleCS01                            |                       |           |
+| 15 주차                            | ~~Week Off~~                       | No Sminar               | No Sminar |
+| <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~               | No Sminar               | No Sminar |
+| 17 주차~                           | Winter Project Start               |                         |           |

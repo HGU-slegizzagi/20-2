@@ -86,7 +86,7 @@
 
 *일정은 조정될 수 있습니다*
 
-## Recuriting
+## Recruiting
 
 <img src="./src/poster20-2.jpg" width="450" height="600">
 
